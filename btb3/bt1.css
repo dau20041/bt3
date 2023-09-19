@@ -1,0 +1,46 @@
+body{
+    margin:0px auto;
+    background-color:#CCCCCC;
+font-family:Arial, Helvetica, sans-serif;
+width: 1000px;
+
+}
+#mainmenu
+{
+    background-color: red;
+    height: 50px;
+    text-align:center;
+}
+#header
+{
+    background-color: blue;
+    padding: 5px 0px;
+    height: 90px;
+    border-left: 2px soild black;
+    text-align: center;
+    border-bottom: 2px soild black;
+}
+#content
+{
+    background-color: green;
+    float: left;
+    width:70% ;
+    height: 400px;
+
+}
+#sidebar
+{
+    background-color: greenyellow;
+    float: right;
+    width: 30%;
+    height: 400px;
+
+}
+#footer
+{
+    background-color: coral;
+    border-top:  2px solid black;
+    text-align: center;
+    padding: 5px 0px;
+    clear: both;
+}
